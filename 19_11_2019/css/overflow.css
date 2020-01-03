@@ -1,0 +1,24 @@
+.auto{
+	height:200px;
+	width:200px;
+	overflow:auto;
+	border:1px solid red;
+}
+.scroll{
+	height:100px;
+	width:100px;
+	overflow:scroll;
+	border:1px solid red;
+}
+.hidden{
+	height:200px;
+	width:200px;
+	overflow:hidden;
+	border:1px solid red;
+}
+.visible{
+	height:200px;
+	width:200px;
+	overflow:visible;
+	border:1px solid red;
+}
